@@ -1,5 +1,4 @@
 {
-  "public": "templates",
   "rewrites": [
     { "source": "/", "destination": "/index.html" },
     { "source": "/about", "destination": "/about.html" },
